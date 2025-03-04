@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=white&height=200&section=header&text=KiMH&fontColor=020202&fontSize=70&animation=fadeIn)
+![blur](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=KiMH&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false)
 
 <div align="center">
-  <a>ML/DL Engineer </a>
+  <a>ML/DL Engineer</a> <br>
   <a>AISec Researcher</a>
 </div>
-
+<br>
 <div align="center">
   <a href="https://velog.io/@ki--mh/">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
