@@ -1,8 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=FFFFFF&height=200&section=header&text=KiMH&fontColor=020202&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=white&height=200&section=header&text=KiMH&fontColor=020202&fontSize=70&animation=fadeIn)
 
-<dib align="center">
-  <a>ML/DL Engineer</a>
+<div align="center">
+  <a>ML/DL Engineer </a>
   <a>AISec Researcher</a>
+</div>
 
 <div align="center">
   <a href="https://velog.io/@ki--mh/">
