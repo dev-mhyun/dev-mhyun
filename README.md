@@ -1,6 +1,4 @@
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DoubleMnSingleH%20render&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?type=soft&color=black&height=200&section=header&text=DoubleMnSingleH&fontColor=FFFFFF&fontSize=70&animation=fadeIn)
 
 <div align="center">
   <a href="https://velog.io/@ki--mh/">
