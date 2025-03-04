@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=white&height=200&section=header&text=KiMH&fontColor=000000&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=FFFFFF&height=200&section=header&text=KiMH&fontColor=020202&fontSize=70&animation=fadeIn)
 
 <dib align="center">
   <a>ML/DL Engineer</a>
