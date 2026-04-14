@@ -2,7 +2,8 @@
 
 <div align="center">
   <a>ML/DL Engineer</a> <br>
-  <a>AISec Researcher</a>
+  <a>AISec Researcher</a> <br>
+  <a>Offensive Security</a>
 </div>
 <br>
 <div align="center">
